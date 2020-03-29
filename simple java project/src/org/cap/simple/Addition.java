@@ -22,6 +22,6 @@ public static void main(String[] args)
 	ad1.sub();
 	
 	//hello......
-	System.out.println("i want to do conflict here");
+	
 }
 }
